@@ -16,3 +16,9 @@ Check the code to make sure you are comfortable with it, and then save.
 ## Other
 
 Have updates for pattern matching? Better ways of doing this? Great. Send a pull request and I will update.
+
+## REP CRADS
+
+Check out our store at https://crads.io for shirts and stickers related to infosec, cyber, and internets.
+
+![transAsset 3crads-logo](https://user-images.githubusercontent.com/4636/90641536-58be5480-e1ff-11ea-88b3-9d57940609f5.png)
