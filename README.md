@@ -1,5 +1,5 @@
 # osx-defang
-A URL defanger for OS X.
+A URL defanger for OS X from your friends at [crads.io](https://crads.io).
 
 This OS X Automator Quick Action will "defang" URLS in any editable text that you highlight. After installing, it will be available within the "services" menu when you right click on a selection. All defanged URLs will be saved in place. Here is a quick example:
 
